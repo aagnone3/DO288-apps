@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Customize these variables for your environment
-        DEV_PROJECT = "aagnone3-movies-dev"
-        STAGE_PROJECT = "aagnone3-movies-stage"
+        DEV_PROJECT = "aagnone-movies-dev"
+        STAGE_PROJECT = "aagnone-movies-stage"
         APP_GIT_URL = "https://github.com/aagnone3/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/java"
 
